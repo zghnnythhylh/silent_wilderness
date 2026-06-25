@@ -1,0 +1,33 @@
+! Title: silent_wilderness
+! Version: 1.0.0
+! Homepage: https://github.com/zghnnythhylh/silent_wilderness
+! License: https://github.com/zghnnythhylh/silent_wilderness/blob/main/LICENSE
+baidu.com###\31 2
+baidu.com###\32 
+baidu.com###\36 
+baidu.com###chat-input-extension > div > div.panel-list_8jHmm
+baidu.com###container > div.result-molecule.new-pmd:last-child
+baidu.com###content_right
+cn.bing.com###b_context
+cn.bing.com###b_pole > div.b_poleContent
+cn.bing.com###b_results > li.b_ans:nth-child(15)
+cn.bing.com###b_results > li.b_ans:nth-child(16)
+cn.bing.com###rs_ul
+cn.bing.com###sa_rpane
+cn.bing.com###sb_form > div.below_sbox:nth-child(6)
+so.com###card_container
+so.com###head_pdr_guide
+so.com###main > div.mod-relation:last-child
+so.com###main > ul.result:nth-child(4) > li.res-recommend-tag-cover:nth-child(3)
+so.com###main > ul.result:nth-child(5) > li.res-list:last-child > div.llm-recommend:last-child
+so.com###main > ul.result:nth-child(5) > li.res-recommend-tag-cover:nth-child(3)
+so.com###rs-top
+so.com###side_wrap
+so.com###so_top
+sogou.com###float_uphint
+sogou.com###right
+sogou.com###search-box > div.sbox-hotrank-container.sgsearch:nth-child(3) > div.sbox-hotrank-wrap.sbox-clearfix
+sogou.com###sogou_vr_30010467_1
+sogou.com###sogou_vr_30010468_-2
+sogou.com###stable_uphint
+yandex.com##main.body__wrapper:nth-child(2) > div.body__container:nth-child(2) > div.body__view:nth-child(2) > div.body__content-spacer:first-child > div:last-child > nav.services-suggest
