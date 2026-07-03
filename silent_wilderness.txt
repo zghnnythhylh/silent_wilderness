@@ -1,7 +1,7 @@
 ! Title: silent_wilderness
-! Version: 1.0.0
+! Version: 1.0.1
 ! Homepage: https://github.com/zghnnythhylh/silent_wilderness
-! License: https://github.com/zghnnythhylh/silent_wilderness/blob/main/LICENSE
+! License: https://raw.githubusercontent.com/zghnnythhylh/silent_wilderness/refs/heads/main/LICENSE
 baidu.com###\31 2
 baidu.com###\32 
 baidu.com###\36 
@@ -10,8 +10,10 @@ baidu.com###container > div.result-molecule.new-pmd:last-child
 baidu.com###content_right
 cn.bing.com###b_context
 cn.bing.com###b_pole > div.b_poleContent
+cn.bing.com###b_results > div.b_inline_ajax_rs.b_ans:nth-child(2)
 cn.bing.com###b_results > li.b_ans:nth-child(15)
 cn.bing.com###b_results > li.b_ans:nth-child(16)
+cn.bing.com###b_topw
 cn.bing.com###rs_ul
 cn.bing.com###sa_rpane
 cn.bing.com###sb_form > div.below_sbox:nth-child(6)
